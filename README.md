@@ -1,4 +1,4 @@
-# Imigração_Canada
+# Análise Migratória
 
 
 ![Image](https://github.com/user-attachments/assets/c65d7c15-23ad-4b56-82ab-2ce45e1fee73)
@@ -11,7 +11,7 @@ Então deixa eu explicar, em minha pesquisa eu observei que:
 
 O grande número de imigração de brasileiros para o Canadá entre 1980 e 2013 foi motivada por um conjunto de fatores, incluindo a busca por melhores oportunidades econômicas e de vida, crises no Brasil e políticas de imigração do Canadá que incentivaram a chegada de mão de obra básica. 
 
-# 📊 Vizualização dos dados 
+# 📊 Visualização dos dados 
 
 Para entender o panorama da imigração e realizar nossa análise exploratória, iniciamos com uma visualização detalhada da base de dados.
 
