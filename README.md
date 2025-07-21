@@ -4,14 +4,14 @@
 ![Image](https://github.com/user-attachments/assets/c65d7c15-23ad-4b56-82ab-2ce45e1fee73)
 
 
-# 🎯 Objetivo do Projeto
+# Objetivo do Projeto
 Este projeto tinha como objetivo ver a imigração de brasileiros para o Canadá no período de 1980 a 2013. E Porque a imigração tava alta para o Canadá nesse período você deve estar se pergutando correto? 
 
 Então deixa eu explicar, em minha pesquisa eu observei que: 
 
 O grande número de imigração de brasileiros para o Canadá entre 1980 e 2013 foi motivada por um conjunto de fatores, incluindo a busca por melhores oportunidades econômicas e de vida, crises no Brasil e políticas de imigração do Canadá que incentivaram a chegada de mão de obra básica. 
 
-# 📊 Visualização dos dados 
+# Visualização dos dados 
 
 Para entender o panorama da imigração e realizar nossa análise exploratória, iniciamos com uma visualização detalhada da base de dados.
 
@@ -23,7 +23,7 @@ O gráfico abaixo ilustra a evolução da imigração brasileira para o Canadá,
 
 <img width="1785" height="695" alt="Image" src="https://github.com/user-attachments/assets/b627fb92-03ed-43bc-bdf1-fa682b937062" />
 
-# 🌎 Imigração dos quatros maiores países da América do Sul para o Canadá de 1980 a 2013
+# Imigração dos quatros maiores países da América do Sul para o Canadá de 1980 a 2013
 
 Para contextualizar a imigração brasileira, analisamos os quatro países sul-americanos com as maiores taxas de imigração para o Canadá no mesmo período, conforme os gráficos a seguir:
 
@@ -37,7 +37,7 @@ Nossa análise revelou que o Brasil ocupa a quarta posição entre os países su
 <img width="1238" height="455" alt="Image" src="https://github.com/user-attachments/assets/da427fe7-c1c8-451e-8143-10a14132d88a" />
 <img width="1243" height="514" alt="Image" src="https://github.com/user-attachments/assets/6ffccf4d-380b-4812-9881-976c86f03cb4" />
 
-# 🤔 Fatores que contribuíram para a imigração 
+# Fatores que contribuíram para a imigração 
 
 As crises econômicas e políticas que marcaram o Brasil, especialmente na década de 1980, levaram muitos a buscar melhores condições de vida em outros países. 
 
@@ -57,7 +57,7 @@ Concessão de residência permanente: O Canadá oferece a possibilidade de obter
 
 Facilidade de acesso à educação e trabalho: O sistema de ensino e o mercado de trabalho canadense eram vistos como mais projetados para imigrantes, o que incentivava a busca por melhores oportunidades no país. 
 
-# ✅ Conclusão: 
+# Conclusão: 
 
 A expressiva imigração brasileira para o Canadá entre 1980 e 2013 é resultado de uma confluência de fatores. As pressões econômicas, políticas e sociais no Brasil, combinadas com as oportunidades e as políticas de imigração acolhedoras do Canadá, criaram um cenário propício para esse fluxo migratório significativo.
 
