@@ -17,7 +17,7 @@ Para entender o panorama da imigração e realizar nossa análise exploratória,
 
 <img width="1863" height="630" alt="Image" src="https://github.com/user-attachments/assets/75f6f3ae-1c93-4c1e-b6e3-403685185656" />
 
-# 📈 Vizualização gráfica da imigração dos brasileiros para o Canadá ao longo dos anos
+# 📈 Visualização gráfica da imigração dos brasileiros para o Canadá ao longo dos anos
 
 O gráfico abaixo ilustra a evolução da imigração brasileira para o Canadá, evidenciando um aumento progressivo ao longo dos anos.
 
