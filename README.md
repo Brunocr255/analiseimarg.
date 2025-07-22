@@ -17,7 +17,7 @@ Para entender o panorama da imigração e realizar nossa análise exploratória,
 
 <img width="1863" height="630" alt="Image" src="https://github.com/user-attachments/assets/75f6f3ae-1c93-4c1e-b6e3-403685185656" />
 
-# 📈 Visualização gráfica da imigração dos brasileiros para o Canadá ao longo dos anos
+# Visualização gráfica da imigração dos brasileiros para o Canadá ao longo dos anos
 
 O gráfico abaixo ilustra a evolução da imigração brasileira para o Canadá, evidenciando um aumento progressivo ao longo dos anos.
 
@@ -49,7 +49,7 @@ Diversidade cultural e educação: O Canadá valoriza a diversidade cultural e o
 
 Melhores condições de vida: A busca por um ambiente mais seguro e com melhores condições de vida, em comparação com o Brasil, também foi um fator importante para a decisão de imigrar. 
 
-# 📄 Políticas de imigração do Canadá
+# Políticas de imigração do Canadá
 
 Sistema de pontos: O sistema de pontos, que avalia as qualificações dos imigrantes, permitiu que muitos brasileiros com habilidades e qualificações específicas fossem selecionadas para imigrar. 
 
